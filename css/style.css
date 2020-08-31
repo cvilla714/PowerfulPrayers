@@ -1,0 +1,62 @@
+#wholepage {
+  width: auto;
+  height: auto;
+  margin-top: 40px;
+  background-color: #eeeeee;
+  border: 2px groove brown;
+  border-radius: 8px;
+}
+#title {
+  font-size: 70px;
+  text-align: center;
+  padding-top: 30px;
+}
+#main {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+#img-div {
+  background: purple;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
+  border-radius: 50%;
+}
+
+#img-caption {
+  font-size: 35px;
+}
+.center {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+}
+.center {
+  text-align: center;
+  list-style-position: inside;
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
